@@ -1,0 +1,33 @@
+# 雛形の一覧表
+
+
+|---app
+|   |---assets
+|   |   |---(config) <- Rails5だから？
+|   |   |---images
+|   |   |---javascripts
+|   |    ---stylesheets
+|   |---channels <- この機能がバカあつい！！
+|   |---controllers
+|   |---helpers
+|   |---jobs
+|   |---mailers
+|   |---models
+|    ---views
+|---bin
+|---config
+|---db
+|---lib
+|---log
+|---public
+|---test
+|---tmp
+|---vendor
+ ---.gitignore
+ ---config.ru
+ ---Gemfile
+ ---Gemfile.lock
+ ---package.json
+ ---Rakefile
+ ---READEME.md
+

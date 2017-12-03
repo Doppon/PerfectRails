@@ -3,6 +3,7 @@ class Sample
     puts 'hi'
   end
 end
+
 # edefsコマンドで実行する(gemコマンド)
 # 因みにgemコマンドとrakeコマンドはRubyに同封されちょる
 # -> なければ"gem install rdefs"でおｋ
