@@ -1,0 +1,32 @@
+# Railsの思想
+・CoC
+・DRY
+・REST
+・自動テスト
+
+
+# CoC(Convention over Configuration)
+意味：設定より規約
+
+結論：設定ファイルをいじくりしなくても大丈夫やでd(´・ω・｀)
+
+
+
+# DRY(Don't Repeat Yourself)
+意味：無駄な繰り返しはやめい！！
+
+結論：修正するとき楽だよね〜
+
+
+
+# REST(Reqresentational State Transfer)
+意味：URI(Uaniform Resource Identifier)を通してリソースをそうさする手段を提供する
+
+結論：統一されてるから機能の追加とかしやすい
+
+
+
+# 自動テスト
+意味：意味自体はそのまま
+
+結論：RailsにはbyebugとかRspecのようなテストに向いた機能がめっちゃ強いお
