@@ -2,9 +2,3 @@ desc 'Hello, Rake Task'
 task :hello do
   puts 'Hello, Rake!'
 end
-
-# rake -Tで実行できる
-# 実行結果 -> 'rake hello  # Hello, Rake Task'
-# rake helloでタスクの実行もできる
-# 実行結果 -> 'Hello, Rake!'
-

@@ -33,6 +33,20 @@
 
 
 
+# Rakeタスクの実行
+
+- "rake T" でRakeファイルを実行できる
+
+$ rake -T
+rake hello  # Hello, Rake Task
+
+- "rake タスク名" で指定したタスクが実行される
+
+$ rake hello
+Hello, Rake!
+
+
+
 # ルーティングの確認の仕方
 
 /rails/info/routes
