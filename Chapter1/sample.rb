@@ -4,7 +4,12 @@ class Sample
   end
 end
 
-# rdefsコマンドで実行する(gemコマンド)
-# 因みにgemコマンドとrakeコマンドはRubyに同封されちょる
-# -> なければ"gem install rdefs"でおｋ
-# 自分はエラーでたけどぶっちゃけcatで足りてるので放置ｗｗ(パスを通す時間が勿体無い)
+=begin
+
+rdefsコマンド:引数にRubyのファイルを渡すとソースコードの構成が見れる
+
+$ rdefs sample.rb                                                                                                                                                🔱 03/20/18 5:43:34🔱
+class Sample
+  def hi
+
+=end
